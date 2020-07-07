@@ -1,0 +1,9 @@
+create table employeinfo(
+Employee_ID int primary key AUTO_INCREMENT,
+EmployFirstName varchar(255),
+EmployLastName varchar (255),
+Gender varchar(50),
+HiredDate date,
+Salary int
+
+)
